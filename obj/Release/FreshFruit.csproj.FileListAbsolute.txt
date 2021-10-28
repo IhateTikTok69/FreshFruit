@@ -1,0 +1,15 @@
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\obj\Release\FreshFruit.csprojAssemblyReference.cache
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\obj\Release\MainWindow.g.cs
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\obj\Release\App.g.cs
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\obj\Release\FreshFruit_MarkupCompile.cache
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\obj\Release\FreshFruit_MarkupCompile.lref
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\bin\Release\FreshFruit.exe.config
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\bin\Release\FreshFruit.exe
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\bin\Release\FreshFruit.pdb
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\obj\Release\MainWindow.baml
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\obj\Release\FreshFruit.g.resources
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\obj\Release\FreshFruit.Properties.Resources.resources
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\obj\Release\FreshFruit.csproj.GenerateResource.cache
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\obj\Release\FreshFruit.csproj.CoreCompileInputs.cache
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\obj\Release\FreshFruit.exe
+C:\Users\yogah\source\repos\FreshFruit\FreshFruit\obj\Release\FreshFruit.pdb
